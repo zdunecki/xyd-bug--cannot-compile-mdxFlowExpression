@@ -43,7 +43,8 @@
                 "group": "Customization",
                 "pages": [
                     "make-docs-yours",
-                    "icons"
+                    "icons",
+                    "bug"
                 ]
             }
         ]
